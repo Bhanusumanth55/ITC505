@@ -1,0 +1,37 @@
+body {
+    font-family: "Times New Roman", serif;
+    color: #000000;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0 20px; /* Adds padding to the body, giving content some space from the edges */
+}
+
+table {
+    width: 100%;
+    background-color: #add8e6; /* Light blue background */
+    margin-bottom: 20px; /* Space after the table */
+}
+
+h3 {
+    margin: 20px 0; /* Adds vertical space before and after the h3 heading */
+    padding-left: 10px; /* Adds space from the left edge */
+}
+
+p {
+    margin: 20px 0 20px 40px; /* Adds space above and below the paragraph, and tab space from the left */
+    text-indent: -30px; /* Pulls the first line back to align with the rest of the content */
+}
+
+
+b {
+    font-weight: bold;
+}
+
+a {
+    color: blue; /* Ensures that links are blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
